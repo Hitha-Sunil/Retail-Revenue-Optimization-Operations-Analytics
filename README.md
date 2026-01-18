@@ -83,6 +83,7 @@ Operational performance metrics
 This demonstrates practical SQL usage in analytics workflows.
 
 # 📊 Power BI Dashboard
+Dashboard designed to support management decisions on revenue performance, inventory risk, and store-level operations
 
 An interactive dashboard was created featuring:
 
